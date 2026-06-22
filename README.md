@@ -68,6 +68,10 @@ Link: https://www.kaggle.com/datasets/nih-chest-xrays/data
 
 
 Output for Prediction:
+
+
+
+
 <img width="851" height="82" alt="image" src="https://github.com/user-attachments/assets/e0631c97-1b78-499a-9255-977d0a9bfa7f" />
 
 
