@@ -25,6 +25,14 @@ Link: https://www.kaggle.com/datasets/nih-chest-xrays/data
 
 
  📸 Output Screenshots:
+
+
+
+
+
+
+
+ 
  <img width="547" height="413" alt="download" src="https://github.com/user-attachments/assets/3264c8e4-ca90-49bc-a705-d36442d8c78c" />
 
  
